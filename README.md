@@ -1,2 +1,2 @@
-# text
-This is for personal blog
+# Image
+这是拿来作为个人图床
